@@ -1,4 +1,3 @@
-/work/readonly/
 **/target/
 **/__pycache__/
 **/.ipynb_checkpoints/
